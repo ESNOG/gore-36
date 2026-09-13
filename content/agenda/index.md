@@ -16,7 +16,7 @@ La celebración del ESNOG-36, tendrá lugar en:
 
 **UPC**
 
-Campus de la Universitat Politecnica de Catalunya.
+Campus de la Universitat Politècnica de Catalunya.
 
 
 Agradecemos a la UPC su aportacion de espacio para la Reunion 36 de ESNOG

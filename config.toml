@@ -28,7 +28,7 @@ pygmentsUseClasses = true # new add
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
-    hideCopyright = false
+    hideCopyright = true
 
     # Custom CSS
     custom_css = []
@@ -56,10 +56,10 @@ pygmentsUseClasses = true # new add
 
 # Social links
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
+    name = "X"
+    icon = "fa-brands fa-x-twitter"
     weight = 2
-    url = "https://twitter.com/esnog1/"
+    url = "https://x.com/esnog1/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"

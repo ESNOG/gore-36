@@ -34,7 +34,8 @@
     {{ if .Site.Params.snsShare }}
       <div class="sns-shares pc-sns-shares">
         {{ if .Site.Params.enableTwitterShare }}
-          <a class="sns-share twitter-share" href="https://twitter.com/intent/tweet?original_referer={{ .Permalink }}&ref_src=twsrc%5Etfw&text={{ .Title }} {{ .Site.Title }}&tw_p=tweetbutton&url={{ .Permalink }}"><i class="fab fa-twitter"></i></a>
+          <a class="sns-share twitter-share" href="https://twitter.com/intent/tweet?original_referer={{ .Permalink }}&ref_src=twsrc%5Etfw&text={{ .Title }} {{ .Site.Title }}&tw_p=tweetbutton&url={{ .Permalink }}" aria-label="Share on X (formerly Twitter)"><i class="fab fa-x-twitter"></i>
+          </a>
         {{ end }}
         {{ if .Site.Params.enableFacebookShare }}
           <a class="fb btn sns-share fb-share" href="http://www.facebook.com/share.php?u={{ .Permalink }}" onclick="window.open(this.href, 'FBwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fab fa-facebook-f"></i></a>
