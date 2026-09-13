@@ -14,7 +14,7 @@ Registration to attend the ESNOG-36 meeting is done through this link:
 La dirección de correo electrónico que indiques se usará para avisos y notificaciones sobre la reunión, aunque te recomendamos que te des de [alta en la lista de correo de ESNOG.](https://www2.esnog.net:8443/listinfo/gore)
 
 
-The email address you provide will be used for meeting notices and notifications, although we recommend that you [subscribe to the ESNOG mailing list.](https://www2.esnog.net:8443/cgi-bin/mailman/listinfo/gore)
+The email address you provide will be used for meeting notices and notifications, although we recommend that you [subscribe to the ESNOG mailing list.](https://www2.esnog.net:8443/listinfo/gore)
 
 
 
