@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on ESNOG/GORE Reunion 36</title>
+		<link>http://localhost:1313/gore36/posts/</link>
+		<description>Recent content in Posts on ESNOG/GORE Reunion 36</description>
+		<generator>Hugo</generator>
+		<language>es</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/gore36/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Enlace a la reunion GORE36</title>
+				<link>http://localhost:1313/gore36/posts/gore36-link/</link>
+				<pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/gore36/posts/gore36-link/</guid>
+				<description>&lt;p&gt;La reunión &lt;strong&gt;GORE36&lt;/strong&gt; los dias  &lt;strong&gt;22 y 23 de Octubre de 2026&lt;/strong&gt; será &lt;strong&gt;presencial&lt;/strong&gt;, y podrá seguirse tambien a traves de streaming.&lt;/p&gt;&#xA;&lt;p&gt;El enlace para seguimiento en remoto se publicará más adelante.&lt;/p&gt;&#xA;&lt;p&gt;Permanezcan atentos a sus pantallas&amp;hellip;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+			</item>
+			<item>
+				<title>Patrocinadores de GORE-36</title>
+				<link>http://localhost:1313/gore36/posts/sponsors/</link>
+				<pubDate>Mon, 25 Sep 2023 16:52:57 +0200</pubDate>
+				<guid>http://localhost:1313/gore36/posts/sponsors/</guid>
+				<description>&lt;p&gt;Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero 30 de ESNOG (GORE-30):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ESPANIX (&lt;a href=&#34;https://www.espanix.net&#34;&gt;https://www.espanix.net&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;IPBroker  (&lt;a href=&#34;https://www.ipbroker.es/&#34;&gt;https://www.ipbroker.es/&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;UPC (&lt;a href=&#34;https://www.upc.edu/ca&#34;&gt;https://www.upc.edu/ca&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Registro en ESNOG-36</title>
+				<link>http://localhost:1313/gore36/posts/registro/</link>
+				<pubDate>Mon, 25 Sep 2023 11:47:13 +0200</pubDate>
+				<guid>http://localhost:1313/gore36/posts/registro/</guid>
+				<description>&lt;p&gt;El registro para asistir a la reunión GORE-36 de ESNOG se hace a través de este enlace:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pretix.eu/esnog/esnog36/&#34;&gt;https://pretix.eu/esnog/esnog36/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;La dirección de correo electrónico que indiques se usará para avisos y notificaciones sobre la reunión, aunque te recomendamos que te des de &lt;a href=&#34;https://www2.esnog.net:8443/cgi-bin/mailman/listinfo/gore&#34;&gt;alta en la lista de correo de ESNOG.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;También puedes utilizar el &lt;a href=&#34;https://t.me/esnog_es&#34;&gt;Canal de Telegram&lt;/a&gt; para estar al día en todas las novedades sobre este evento, y sobre &lt;a href=&#34;https://www.esnog.net&#34;&gt;ESNOG&lt;/a&gt; en general.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;html&gt;&#xA;&lt;head&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;  &lt;style&gt;&#xA;    h2 {&#xA;      text-align: center;&#xA;    }&#xA;    #sponsors {&#xA;      display: flex;&#xA;      flex-flow: column;&#xA;    }&#xA;    .sponsor-level {&#xA;      display: flex;&#xA;      flex-flow: row wrap;&#xA;      align-items: center;&#xA;      justify-content: center;&#xA;      margin: auto;&#xA;    }&#xA;    .sponsor {&#xA;      margin: 16px;&#xA;    }&#xA;    #catnix {&#xA;      width: 140px;&#xA;    }&#xA;    #espanix {&#xA;      width: 174px;&#xA;    }&#xA;    #ipbroker {&#xA;      width: 185px;&#xA;    }&#xA;    #flexoptix {&#xA;      width: 169px;&#xA;    }&#xA;    #UPC {&#xA;      width: 169px;&#xA;    }&#xA;    .center {&#xA;     display: block;&#xA;     margin-left: auto;&#xA;     margin-right: auto;&#xA;     width: 100%;&#xA;    }&#xA;    .institutional {&#xA;    }&#xA;    #ripe {&#xA;      width: 152px;&#xA;    }&#xA;&#xA;  &lt;/style&gt;&#xA;  &lt;h2 class=&#34;center&#34; id=&#34;patrocinadores&#34;&gt;PATROCINADORES&lt;/h2&gt;&#xA;  &lt;div id=&#34;sponsors&#34;&gt;&#xA;    &lt;div class=&#34;sponsor-level&#34;&gt;&#xA;      &lt;div class=&#34;sponsor&#34;&gt;&lt;a href=&#34;https://www.catnix.net&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener noreferrer&#34;&gt;&lt;img src=&#34;http://localhost:1313/gore36/gore34/img/catnix_sh.svg&#34; alt=&#34;catnix&#34; class=&#34;sponsor&#34; id=&#34;catnix&#34;&gt;&lt;/a&gt;&lt;/div&gt;&#xA;      &lt;div class=&#34;sponsor&#34;&gt;&lt;a href=&#34;https://espanix.net&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener noreferrer&#34;&gt;&lt;img src=&#34;http://localhost:1313/gore36/gore34/img/ESpanix_sh.svg&#34; alt=&#34;ESpanix&#34; class=&#34;sponsor&#34; id=&#34;espanix&#34;&gt;&lt;/a&gt;&lt;/div&gt;&#xA;      &lt;div class=&#34;sponsor&#34;&gt;&lt;a href=&#34;https://ipbroker.com&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener noreferrer&#34;&gt;&lt;img src=&#34;http://localhost:1313/gore36/gore34/img/IP-Broker_sh.svg&#34; alt=&#34;IP Broker&#34; class=&#34;sponsor&#34; id=&#34;ipbroker&#34;&gt;&lt;/a&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
+			</item>
+	</channel>
+</rss>
