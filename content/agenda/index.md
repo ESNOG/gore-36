@@ -1,5 +1,5 @@
 ---
-title: "Agenda - ESNOG 36"
+title: "Agenda - ESNOG36"
 ---
 
 ---------------------------
@@ -402,7 +402,7 @@ Descripcion de la charla por concretar
 
 ### Registro y Bienvenida
 
-Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-34
+Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG36
 
 
 #
