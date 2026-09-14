@@ -1,12 +1,12 @@
 ---
-title: "Registro en ESNOG 36"
+title: "Registro en ESNOG36"
 ---
 
 # Registro/Register
 
-El registro para asistir a la reunión ESNOG-36 se hace a través de este enlace:
+El registro para asistir a la reunión ESNOG36 se hace a través de este enlace:
 
-Registration to attend the ESNOG-36 meeting is done through this link:
+Registration to attend the ESNOG36 meeting is done through this link:
 
 [https://pretix.eu/esnog/esnog36/](https://pretix.eu/esnog/esnog36/)
 

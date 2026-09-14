@@ -10,7 +10,7 @@ title: "Agenda - ESNOG 36"
 #
 
 
-La celebración del ESNOG-36, tendrá lugar en:
+La celebración del ESNOG36, tendrá lugar en:
 
 #
 
@@ -19,7 +19,7 @@ La celebración del ESNOG-36, tendrá lugar en:
 Campus de la Universitat Politècnica de Catalunya.
 
 
-Agradecemos a la UPC su aportacion de espacio para la Reunion 36 de ESNOG
+Agradecemos a la UPC su aportacion de espacio para la Reunion ESNOG36
 
 
 {{% portfolio %}}
@@ -73,9 +73,9 @@ https://t.me/esnog_es
 #
 
 
-Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-36
+Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG36
 
-Presentación de los [patrocinadores](https://esnog.net/gore36/patrocinio) del ESNOG-36, que gracias a ellos es posible este evento.
+Presentación de los [patrocinadores](https://esnog.net/gore36/patrocinio) del ESNOG36, que gracias a ellos es posible este evento.
 
 #
 #
@@ -379,7 +379,7 @@ Descripcion de la charla por concretar
 
 {{% portfolio image="/gore36/img/icono-comida.jpg" alt="cena" %}}
 
-### Cena ESNOG
+### Cena ESNOG36
 
 
 - Las invitaciones se repartiran durante el evento del primer día.
