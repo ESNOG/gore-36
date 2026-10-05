@@ -290,7 +290,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### ESPANIX
 
-{{% portfolio image="/gore36/img/javier_achirica.jpg" alt="Javier Achirica" %}}
+{{% portfolio image="/gore36/img/ponente-javier-achirica.jpg" alt="Javier Achirica" %}}
 
 **Javier Achirica** 
 
