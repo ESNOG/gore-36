@@ -148,7 +148,7 @@ Descripcion de la charla por concretar
 #### IA agéntica soberana para operadores: de los logs a la lógica de negocio
 #
 
-{{% portfolio image="/gore36/img/jose_roman.jpg" alt="Jose Roman" %}}
+{{% portfolio image="/gore36/img/ponente-jose-roman.jpg" alt="Jose Roman" %}}
 
 
 **Jose Roman (CEO fibercli.com) **
@@ -174,7 +174,7 @@ La segunda parte se centra en un caso real de un operador VoIP. A partir de 24 h
 #### Rethinking Network Monitoring
 #
 
-{{% portfolio image="/gore36/img/christian_adell.jpg" alt="Christian Adell Querol" %}}
+{{% portfolio image="/gore36/img/ponente-christian-adell.jpg" alt="Christian Adell Querol" %}}
 
 
 **Christian Adell Querol - CoreWeave**
@@ -204,7 +204,7 @@ In this talk, we'll show you what network monitoring needs to look like in 2026,
 #### De la privacidad a la ciberseguridad: El proyecto Ikusa
 #
 
-{{% portfolio image="/gore36/img/pere_barlet.jpg" alt="Pere Barlet" %}}
+{{% portfolio image="/gore36/img/ponente-pere-barlet.jpg" alt="Pere Barlet" %}}
 
 
 **Pere Barlet**
@@ -272,7 +272,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### CATNIX
 
-{{% portfolio image="/gore34/img/maria_isabel_gandia.jpg" alt="Maria Isabel Gandía" %}}
+{{% portfolio image="/gore34/img/ponente-maria-isabel-gandia.jpg" alt="Maria Isabel Gandía" %}}
 
 **María Isabel Gandía**
 
@@ -506,7 +506,7 @@ Descripcion de la charla por concretar
 #### Channelmania! Asegura el futuro de tu topología de redes DWDM quedando flexible para la tecnología de 1.6T
 #
 
-{{% portfolio image="/gore36/img/gerhard_stein.jpg" alt="Gerhard Stein" %}}
+{{% portfolio image="/gore36/img/ponente-gerhard-stein.jpg" alt="Gerhard Stein" %}}
 
 
 **Gerhard Stein**
