@@ -260,24 +260,46 @@ Descripcion de la charla por concretar
 #
 ---------------------------
 
-### 15:15 - 16:00 CEST
+### 15:15 - 15:45 CEST
 
-#### charla por concretar
+### Puntos Neutros
+
+Actualización sobre las últimas novedades en los diferentes puntos neutros existentes en España. (En orden alfabético)
+
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+#### 15:15 - 15:30 CEST
+
+##### CATNIX
+
+{{% portfolio image="/gore34/img/maria_isabel_gandia.jpg" alt="Maria Isabel Gandía" %}}
+
+**María Isabel Gandía**
+
+[CATnix - www.catnix.net](https://www.catnix.net/es)
 
 
-**Ponente por concretar**
-
-[ESNOG](https://www.esnog.net)
+([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null.pdf))
 
 
-Descripcion de la charla por concretar
+{{% /portfolio %}}  
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
+#
 
-{{% /portfolio %}} 
+#### 15:30 - 15:45 CEST
+
+##### ESPANIX
+
+{{% portfolio image="/gore34/img/javier_achirica.jpg" alt="Javier Achirica" %}}
+
+**Javier Achirica** 
+
+[ESPAnix - www.espanix.net](https://www.espanix.net/es)
+
+
+([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null.pdf))
+
+{{% /portfolio %}}  
 
 #
 #
