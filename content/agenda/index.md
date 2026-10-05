@@ -145,18 +145,20 @@ Descripcion de la charla por concretar
 
 ### 11:45 - 12:15 CEST
 
-#### charla por concretar
+#### IA agéntica soberana para operadores: de los logs a la lógica de negocio
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore36/img/jose_roman.jpg" alt="Jose Roman" %}}
 
 
-**Ponente por concretar**
+**Jose Roman (CEO fibercli.com) **
 
-[ESNOG](https://www.esnog.net)
+[Fibercli (https://www.fibercli.com)](https://www.fibercli.com)
 
 
-Descripcion de la charla por concretar
+En esta charla presentamos una plataforma de IA agéntica desplegada íntegramente en infraestructura propia, sin dependencia de servicios en la nube. Funciona con modelos abiertos sobre GPU en un cluster Kubernetes gestionado por GitOps. Un gateway único enruta las peticiones de personas y de agentes hacia el modelo adecuado. Los agentes acceden a los sistemas del operador solo en modo lectura, a través de herramientas acotadas que nunca exponen los datos en bruto. Contaremos cómo se combinan identidad federada, aislamiento por tenant, políticas de red declarativas y optimizaciones como el enrutado nativo con BGP y eBPF. El objetivo es que la IA conviva con la red de producción con las mismas garantías que cualquier otro servicio crítico.
+
+La segunda parte se centra en un caso real de un operador VoIP. A partir de 24 horas de logs de Asterisk, los agentes reconstruyen las reglas con las que opera el negocio: rol de cada carrier, política de failover, límites de admisión y patrones de seguridad. Cada regla sale con su evidencia y su verificación. Mostraremos también cómo se trazan, evalúan y miden en coste cada ejecución y cada agente, para que sus resultados sean auditables y reproducibles. La sesión está pensada para ingenieros de red y operaciones que quieran aplicar IA a sus propios datos sin perder el control sobre ellos.
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
@@ -169,18 +171,25 @@ Descripcion de la charla por concretar
 
 ### 12:15 - 12:45 CEST
 
-#### charla por concretar
+#### Rethinking Network Monitoring
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore36/img/christian_adell.jpg" alt="Christian Adell Querol" %}}
 
 
-**Ponente por concretar**
+**Christian Adell Querol - CoreWeave**
 
-[ESNOG](https://www.esnog.net)
+[CoreWeave - https://www.coreweave.com](https://www.coreweave.com)
 
 
-Descripcion de la charla por concretar
+In this talk, we'll show you what network monitoring needs to look like in 2026, not as a standalone tool, but as an active participant in your automation loop. We'll break it down through three lenses:
+
+- Diverse: your network generates metrics, logs, network flows, traces, protocol data, and events, but so does everything around it. We'll explore how to bring heterogeneous data types together with contextual signals to produce insight that actually means something.
+
+- Integrable: great monitoring doesn't end with an alert. We'll show how to wire observability into the full automation lifecycle, from intent all the way through to action and verification.
+
+- Scalable: diversity and integration mean nothing if they fall apart under load. We'll address the architectural decisions that let your monitoring grow with your data without degrading the operations that depend on it.
+
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
@@ -192,18 +201,19 @@ Descripcion de la charla por concretar
 
 ### 12:45 - 13:15 CEST
 
-#### charla por concretar
+#### De la privacidad a la ciberseguridad: El proyecto Ikusa
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore36/img/pere_barlet.jpg" alt="Pere Barlet" %}}
 
 
-**Ponente por concretar**
+**Pere Barlet**
 
-[ESNOG](https://www.esnog.net)
+[UPC](https://www.upc.net)
 
 
-Descripcion de la charla por concretar
+En esta charla presentaremos la evolución de los proyectos ePrivo y GuardXP, compartidos en anteriores ediciones de ESNOG, hacia Ikusa, una plataforma centrada en reforzar la seguridad de los dispositivos móviles. Explicaremos las decisiones que nos llevaron a cambiar el enfoque del proyecto, los retos encontrados al trasladar funcionalidades avanzadas a un entorno móvil y el equilibrio entre ofrecer herramientas potentes para usuarios experimentados y una experiencia sencilla para el público general.
+
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
