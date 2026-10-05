@@ -272,7 +272,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### CATNIX
 
-{{% portfolio image="/gore34/img/ponente-maria-isabel-gandia.jpg" alt="Maria Isabel Gandía" %}}
+{{% portfolio image="/gore36/img/ponente-maria-isabel-gandia.jpg" alt="Maria Isabel Gandía" %}}
 
 **María Isabel Gandía**
 
@@ -290,7 +290,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### ESPANIX
 
-{{% portfolio image="/gore34/img/javier_achirica.jpg" alt="Javier Achirica" %}}
+{{% portfolio image="/gore36/img/javier_achirica.jpg" alt="Javier Achirica" %}}
 
 **Javier Achirica** 
 
