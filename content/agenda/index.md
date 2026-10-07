@@ -371,47 +371,27 @@ Descripcion de la charla por concretar
 #
 ---------------------------
 
-### 16:30 - 17:00 CEST 
+### 16:30 - 17:30 CEST 
 
-#### charla por concretar
+#### (Mesa redonda) El Impacto de la IA en Redes: Realidad actual, automatización y despliegue operativo
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore36/img/icono-mesa-redonda.jpg" alt="Mesa Redonda" %}}
 
 
-**Ponente por concretar**
+**Joao Damas**\
+**Christian Adell**\
+**José Manuel Roman**\
+**Carlos Fraga**
 
-[ESNOG](https://www.esnog.net)
 
+La IA ya está cambiando la forma en que gestionamos la infraestructura ¿Cómo se adaptan las redes a la era de la Inteligencia Artificial?. En esta mesa redonda analizamos cómo la están aplicando realmente las empresas del sector en la actualidad, los beneficios prácticos que aporta hoy y hacia dónde van las operaciones automatizadas. 
 
-Descripcion de la charla por concretar
+Una charla técnica para entender los nuevos requerimientos y las claves operativas necesarias para gestionar el cambio con éxito.
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
 {{% /portfolio %}} 
 
-#
-#
----------------------------
-
-### 17:00 - 17:30 CEST 
-
-#### charla por concretar
-#
-
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
-
-
-**Ponente por concretar**
-
-[ESNOG](https://www.esnog.net)
-
-
-Descripcion de la charla por concretar
-
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
-
-{{% /portfolio %}} 
 
 #
 #
