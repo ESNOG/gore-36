@@ -16,10 +16,17 @@ La celebración del ESNOG36, tendrá lugar en:
 
 **UPC**
 
+
 Campus de la Universitat Politècnica de Catalunya.
 
+UPC Edificio Vertex. Universitat Politecnica de Catalunya. 
 
-Agradecemos a la UPC su aportacion de espacio para la Reunion ESNOG36
+Plaza de Eusebi Güell, 6. Barcelona
+
+[https://maps.app.goo.gl/vKZpUqCfpyi6toCa6](https://maps.app.goo.gl/vKZpUqCfpyi6toCa6)
+
+
+Agradecemos a la UPC su aportacion de espacio para la Reunion ESNOG36.
 
 
 {{% portfolio %}}
@@ -34,12 +41,12 @@ Agradecemos a la UPC su aportacion de espacio para la Reunion ESNOG36
 También existe la posibilidad de seguir el evento en el canal del ESNOG en youtube:
 
 
-https://www.youtube.com/@esnognet
+[https://www.youtube.com/@esnognet](https://www.youtube.com/@esnognet)
 
 
-La emisión del evento estará disponible en el siguiente enlace:
+Se recomienda estar registrado en el evento en la modalidad de asistencia remota:
 
-https://www.youtube.com/@esnognet/live
+[https://pretix.eu/esnog/esnog36/](https://pretix.eu/esnog/esnog36/)
 
 
 También puedes seguirnos en nuestro canal de Telegram:
@@ -287,7 +294,6 @@ Descripcion de la charla por concretar
 #
 ---------------------------
 
-### 15:15 - 15:45 CEST
 
 ### Puntos Neutros
 
@@ -373,7 +379,7 @@ Descripcion de la charla por concretar
 
 ### 16:30 - 17:30 CEST 
 
-#### Mesa redonda: 
+##### Mesa redonda: 
 #### El Impacto de la IA en Redes: Realidad actual, automatización y despliegue operativo
 #
 
@@ -451,18 +457,18 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG36
 
 ### 10:00 - 10:30 CEST
 
-#### charla por concretar
+#### ISP: Inference Service Provider
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore36/img/ponente-alfredo-giordano.jpg" alt="Alfredo Giordano" %}}
 
 
-**Ponente por concretar**
-
-[ESNOG](https://www.esnog.net)
+**Alfredo Giordano**
 
 
-Descripcion de la charla por concretar
+[https://www.warian.net](https://www.warian.net)
+
+
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
@@ -474,7 +480,7 @@ Descripcion de la charla por concretar
 
 ### 10:30 - 11:00 CEST 
 
-#### Integración de sistemes QKD en redes de transmissión DWDM
+#### Integración de sistemas QKD en redes de transmisión DWDM
 #
 
 {{% portfolio image="/gore36/img/ponente-ferran-hernandez.jpg" alt="Ferran Hernandez" %}}
