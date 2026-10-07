@@ -185,7 +185,7 @@ Descripcion de la charla por concretar
 {{% portfolio image="/gore36/img/ponente-jose-roman.jpg" alt="Jose Roman" %}}
 
 
-**José Manuel Román Fernández Checa - Fibercli**
+**José Manuel Román Fernández Checa**
 
 [Fibercli - https://www.fibercli.com](https://www.fibercli.com)
 
@@ -211,7 +211,7 @@ La segunda parte se centra en un caso real de un operador VoIP. A partir de 24 h
 {{% portfolio image="/gore36/img/ponente-christian-adell.jpg" alt="Christian Adell Querol" %}}
 
 
-**Christian Adell Querol - CoreWeave**
+**Christian Adell Querol**
 
 [CoreWeave - https://www.coreweave.com](https://www.coreweave.com)
 
