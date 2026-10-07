@@ -579,18 +579,17 @@ Descripcion de la charla por concretar
 
 ### 12:30 - 13:00 CEST
 
-#### charla por concretar
+#### Trabajar en una MAANG: antes, durante y después
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-fernando-garcia.jpg" alt="Fernando Garcia" %}}
 
 
-**Ponente por concretar**
-
-[ESNOG](https://www.esnog.net)
+**Fernando Garcia**
 
 
-Descripcion de la charla por concretar
+Una visión desde dentro de cómo es la vida profesional en una empresa: cómo son los procesos de selección, qué ocurre una vez que entras y cómo se organiza el trabajo en el día a día. Hablaremos también de desarrollo profesional, incluyendo algunos aspectos que no siempre se conocen desde fuera. Y, por supuesto, de la otra cara de la moneda: cómo son las salidas de una empresa, qué procesos hay detrás y qué ocurre cuando decides cambiar de rumbo.
+
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
