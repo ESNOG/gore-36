@@ -266,15 +266,15 @@ En esta charla presentaremos la evolución de los proyectos ePrivo y GuardXP, co
 
 ### 14:45- 15:15 CEST 
 
-#### charla por concretar
+#### ASPA: Autonomous System Provider Authorisation
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore36/img/ponente-carlo-berto.jpg" alt="Carlo Berto" %}}
 
 
-**Ponente por concretar**
+**Carlo Berto**
 
-[ESNOG](https://www.esnog.net)
+[RIPE - www.ripe.net](https://www.ripe.net)
 
 
 Descripcion de la charla por concretar
