@@ -107,7 +107,7 @@ También puedes seguirnos en nuestro canal de Telegram:
 #
 
 
-Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG36
+Bienvenida a los asistentes e instrucciones sobre la reunión ESNOG36
 
 Presentación de los [patrocinadores](https://esnog.net/gore36/patrocinio) del ESNOG36, que gracias a ellos es posible este evento.
 
@@ -185,7 +185,7 @@ Descripcion de la charla por concretar
 {{% portfolio image="/gore36/img/ponente-jose-roman.jpg" alt="Jose Roman" %}}
 
 
-**Jose Roman (CEO fibercli.com) **
+**José Manuel Román Fernández Checa - Fibercli**
 
 [Fibercli (https://www.fibercli.com)](https://www.fibercli.com)
 
@@ -380,15 +380,15 @@ Descripcion de la charla por concretar
 ### 16:30 - 17:30 CEST 
 
 ##### Mesa redonda: 
-#### El Impacto de la IA en Redes: Realidad actual, automatización y despliegue operativo
+#### El Impacto de la IA en Redes: Realidad actual, automatización y despliegue operativo.
 #
 
 {{% portfolio image="/gore36/img/icono-mesa-redonda.jpg" alt="Mesa Redonda" %}}
 
 
-**Joao Damas**\
-**Christian Adell**\
-**José Manuel Roman**\
+**Joao Damas (APNIC)**\
+**Christian Adell Querol (Corewave)**\
+**José Manuel Román Fernández Checa (Fibercli)**\
 **Carlos Fraga**
 
 
@@ -428,7 +428,7 @@ Una charla técnica para entender los nuevos requerimientos y las claves operati
 ### Cena ESNOG36
 
 
-- Las invitaciones se repartiran durante el evento del primer día.
+- Las invitaciones se repartirán durante el evento del primer día.
 - Las plazas son limitas, por lo que es necesario [estar inscrito previamente en el evento]((https://pretix.eu/esnog/esnog36/))
 
 
