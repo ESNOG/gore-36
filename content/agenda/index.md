@@ -373,7 +373,8 @@ Descripcion de la charla por concretar
 
 ### 16:30 - 17:30 CEST 
 
-#### (Mesa redonda) El Impacto de la IA en Redes: Realidad actual, automatización y despliegue operativo
+#### Mesa redonda: 
+#### El Impacto de la IA en Redes: Realidad actual, automatización y despliegue operativo
 #
 
 {{% portfolio image="/gore36/img/icono-mesa-redonda.jpg" alt="Mesa Redonda" %}}
