@@ -187,7 +187,7 @@ Descripcion de la charla por concretar
 
 **José Manuel Román Fernández Checa - Fibercli**
 
-[Fibercli (https://www.fibercli.com)](https://www.fibercli.com)
+[Fibercli - https://www.fibercli.com](https://www.fibercli.com)
 
 
 En esta charla presentamos una plataforma de IA agéntica desplegada íntegramente en infraestructura propia, sin dependencia de servicios en la nube. Funciona con modelos abiertos sobre GPU en un cluster Kubernetes gestionado por GitOps. Un gateway único enruta las peticiones de personas y de agentes hacia el modelo adecuado. Los agentes acceden a los sistemas del operador solo en modo lectura, a través de herramientas acotadas que nunca exponen los datos en bruto. Contaremos cómo se combinan identidad federada, aislamiento por tenant, políticas de red declarativas y optimizaciones como el enrutado nativo con BGP y eBPF. El objetivo es que la IA conviva con la red de producción con las mismas garantías que cualquier otro servicio crítico.
@@ -467,7 +467,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG36
 **Alfredo Giordano**
 
 
-[https://www.warian.net](https://www.warian.net)
+[Warian - https://www.warian.net](https://www.warian.net)
 
 
 La inferencia de IA está pasando de ser una capacidad exclusiva de grandes proveedores a convertirse en un servicio que puede distribuirse y ejecutarse cerca de usuarios y datos. ¿Qué papel pueden jugar los operadores en esta nueva cadena de valor? La charla analiza dónde encaja el ISP, desde la distribución y la conectividad hasta la prestación y gestión de capacidad de inferencia.
@@ -490,7 +490,7 @@ La inferencia de IA está pasando de ser una capacidad exclusiva de grandes prov
 
 **Ferran Hernández Suriñach**
 
-[FENTTIC https://fenttic.com/)](https://fenttic.com/)
+[FENTTIC - https://fenttic.com/)](https://fenttic.com/)
 
 
 La ponencia abordará la coexistencia de la seguridad cuántica de claves (QKD) con el tráfico de datos convencional sobre una misma infraestructura de fibra óptica usando multiplexación por división de longitud de onda (DWDM) mediante el uso de infraestructura existente. Se analizarán las interferencias entre la señal cuántica y el tráfico de datos convencional, así como las soluciones técnicas para garantizar la estabilidad de ambos sistemas.
