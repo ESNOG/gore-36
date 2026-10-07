@@ -474,18 +474,19 @@ Descripcion de la charla por concretar
 
 ### 10:30 - 11:00 CEST 
 
-#### charla por concretar
+#### Integración de sistemes QKD en redes de transmissión DWDM
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore36/img/ponente-ferran-hernandez.jpg" alt="Ferran Hernandez" %}}
 
 
-**Ponente por concretar**
+**Ferran Hernández Suriñach**
 
-[ESNOG](https://www.esnog.net)
+[FENTTIC https://fenttic.com/)](https://fenttic.com/)
 
 
-Descripcion de la charla por concretar
+La ponencia abordará la coexistencia de la seguridad cuántica de claves (QKD) con el tráfico de datos convencional sobre una misma infraestructura de fibra óptica usando multiplexación por división de longitud de onda (DWDM) mediante el uso de infraestructura existente. Se analizarán las interferencias entre la señal cuántica y el tráfico de datos convencional, así como las soluciones técnicas para garantizar la estabilidad de ambos sistemas.
+
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
