@@ -19,14 +19,14 @@ La celebración del ESNOG36, tendrá lugar en:
 
 Campus de la Universitat Politècnica de Catalunya.
 
-UPC Edificio Vertex. Universitat Politecnica de Catalunya. 
+UPC Edificio Vèrtex. Universitat Politècnica de Catalunya. 
 
 Plaza de Eusebi Güell, 6. Barcelona
 
 [https://maps.app.goo.gl/vKZpUqCfpyi6toCa6](https://maps.app.goo.gl/vKZpUqCfpyi6toCa6)
 
 
-Agradecemos a la UPC su aportacion de espacio para la Reunion ESNOG36.
+Agradecemos a la [UPC](https://www.upc.edu/) su colaboración y la cesión de sus instalaciones para la celebración de ESNOG36.
 
 
 {{% portfolio %}}
@@ -51,7 +51,7 @@ Se recomienda estar registrado en el evento en la modalidad de asistencia remota
 
 También puedes seguirnos en nuestro canal de Telegram:
 
-https://t.me/esnog_es
+[https://t.me/esnog_es](https://t.me/esnog_es)
 
 
 
