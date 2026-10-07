@@ -284,7 +284,8 @@ En esta charla presentaremos la evolución de los proyectos ePrivo y GuardXP, co
 [RIPE - www.ripe.net](https://www.ripe.net)
 
 
-Descripcion de la charla por concretar
+BGP se basa en la confianza y presenta limitaciones frente a ataques como los hijacks y los route leaks. RPKI ha supuesto un gran avance para validar el origen de las rutas, pero no permite detectar determinados problemas en el AS Path. En esta charla veremos cómo ASPA amplía la protección de RPKI mediante la validación de las relaciones entre sistemas autónomos, permitiendo detectar rutas imposibles, fugas de tráfico y valles en el AS Path. Repasaremos su funcionamiento, los distintos modelos de validación y cómo empezar a desplegar ASPA en nuestras redes.
+
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
@@ -469,6 +470,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG36
 [https://www.warian.net](https://www.warian.net)
 
 
+La inferencia de IA está pasando de ser una capacidad exclusiva de grandes proveedores a convertirse en un servicio que puede distribuirse y ejecutarse cerca de usuarios y datos. ¿Qué papel pueden jugar los operadores en esta nueva cadena de valor? La charla analiza dónde encaja el ISP, desde la distribución y la conectividad hasta la prestación y gestión de capacidad de inferencia.
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
