@@ -35,21 +35,31 @@ Agradecemos a la [UPC](https://www.upc.edu/) su colaboración y la cesión de su
 
 #
 
-## Asistencia online
+## Asistencia
 #
 
-También existe la posibilidad de seguir el evento en el canal del ESNOG en youtube:
+ESNOG-36 podrá seguirse tanto presencialmente como de forma remota.
+
+Se recomienda registrarse previamente en el evento a través del siguiente enlace:
+
+[https://pretix.eu/esnog/esnog36/](https://pretix.eu/esnog/esnog36/)
+
+Modalidades de asistencia:
+
+- Presencial
+- Remota
+
+#
+
+Si no puedes asistir al evento, también podrás seguir las sesiones en directo a través del canal de ESNOG en YouTube:
 
 
 [https://www.youtube.com/@esnognet](https://www.youtube.com/@esnognet)
 
 
-Se recomienda estar registrado en el evento en la modalidad de asistencia remota:
+#
 
-[https://pretix.eu/esnog/esnog36/](https://pretix.eu/esnog/esnog36/)
-
-
-También puedes seguirnos en nuestro canal de Telegram:
+Para estar al día de las novedades del evento, cambios de agenda y otra información de interés, puedes unirte a nuestro canal de Telegram:
 
 [https://t.me/esnog_es](https://t.me/esnog_es)
 
