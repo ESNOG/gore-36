@@ -35,7 +35,7 @@ Agradecemos a la [UPC](https://www.upc.edu/) su colaboración y la cesión de su
 
 #
 
-## Asistencia
+## Asistencia 
 #
 
 ESNOG-36 podrá seguirse tanto presencialmente como de forma remota.
@@ -297,7 +297,7 @@ En esta charla presentaremos la evolución de los proyectos ePrivo y GuardXP, co
 BGP se basa en la confianza y presenta limitaciones frente a ataques como los hijacks y los route leaks. RPKI ha supuesto un gran avance para validar el origen de las rutas, pero no permite detectar determinados problemas en el AS Path. En esta charla veremos cómo ASPA amplía la protección de RPKI mediante la validación de las relaciones entre sistemas autónomos, permitiendo detectar rutas imposibles, fugas de tráfico y valles en el AS Path. Repasaremos su funcionamiento, los distintos modelos de validación y cómo empezar a desplegar ASPA en nuestras redes.
 
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
+([**PRESENTACION en PDF](/gore36/archivos/ripe-carlo-berto-aspa.pdf))
 
 {{% /portfolio %}} 
 
