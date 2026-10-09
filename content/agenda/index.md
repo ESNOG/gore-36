@@ -150,22 +150,33 @@ Descripcion de la charla por concretar
 
 ### 10:45 - 11:15 CEST
 
-#### charla por concretar
+#### A deep-dive into NLNOG's tools 
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore36/img/ponente-nick-bouwhuis.jpg" alt="Nick Bouwhuis" %}}
 
 
-**Ponente por concretar**
+**Nick Bouwhuis**
 
-[ESNOG](https://www.esnog.net)
+[NLNOG - https://nlnog.net/](https://nlnog.net/)
 
 
-Descripcion de la charla por concretar
+NLNOG maintains a few tools that make the life of a network engineer easier. You may know them already, or maybe you don't, but in short:
+
+- The NLNOG ring provides you with access to hundreds of servers around the globe across different networks, so you can perform tests and measurements using a standard Linux environment.
+
+- IRR explorer shows the routing, IRR and RPKI status for resources, and highlights potential issues.
+
+- The BGP filter guide provides resources regarding guidance on BGP filtering considerations.
+
+and that's not even all!
+
+In this talk we will go through them, how and when to use them, and how you can get the most out of them. Our goal is to provide value back to the community, and we'd love your feedback.
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
 {{% /portfolio %}} 
+
 
 #
 #
