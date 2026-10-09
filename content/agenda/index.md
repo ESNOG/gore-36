@@ -538,7 +538,7 @@ La ponencia abordará la coexistencia de la seguridad cuántica de claves (QKD) 
 
 **Gerhard Stein**
 
-[Flexoptix https://www.flexoptix.net](https://www.flexoptix.net)
+[Flexoptix - https://www.flexoptix.net](https://www.flexoptix.net)
 
 
 "Los enfoques anteriores para maximizar la capacidad de datos por par de fibras consistían en utilizar cada vez más canales DWDM con espaciamientos de cuadrícula lo más pequeños posible. Esto hizo que los espaciamientos se redujeran de 200 GHz a 100 GHz y luego a 50 GHz, con algunas aplicaciones llegando incluso a 25 GHz. En los últimos años, el ancho de banda por canal siguió aumentando, a medida que los esquemas de modulación complejos fueron ganando preferencia frente a la codificación ON-OFF-Keying, que ha sido un pilar de la comunicación por fibra óptica durante décadas. 
@@ -556,18 +556,18 @@ Esos anchos de banda por canal incrementados - 400 Gbps, 800 Gbps y ahora avanza
 
 ### 12:00 - 12:30 CEST
 
-#### charla por concretar
+#### Unificación de servicios con EVPN
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore36/img/ponente-manuel-mendez.jpg" alt="Manuel Mendez" %}}
 
 
-**Ponente por concretar**
+**Manuel Mendez**
 
-[ESNOG](https://www.esnog.net)
+[ARISTA - https://www.arista.com](https://www.arista.com)
 
+Esta presentación explora la evolución técnica de Ethernet VPN como un ecosistema de estándares para un plano de control unificado. Se abordarán las capacidades operativas de los diferentes casos de uso: provisión integrada de servicios de Nivel 2 y Nivel 3, distribución de tráfico Multicast, implementación de soluciones multi-homing, y escalado de la red mediante diseños jerárquicos.
 
-Descripcion de la charla por concretar
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
