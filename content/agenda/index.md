@@ -127,18 +127,19 @@ Presentación de los [patrocinadores](https://esnog.net/gore36/patrocinio) del E
 
 ### 10:15 - 10:45 CEST
 
-#### charla por concretar
+#### Las rotaciones de la llave de la raíz del DNS
 #
 
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore36/img/ponente-hugo-salgado.jpg" alt="John Doe" %}}
 
 
-**Ponente por concretar**
-
-[ESNOG](https://www.esnog.net)
+**Hugo Salgado**
 
 
-Descripcion de la charla por concretar
+Hace dos semanas ocurrió un evento único en Internet. Se cambió la llave criptográfica fundamental del DNS, y sobrevivimos a ello. 
+
+n esta charla explicaré de qué se trara esa llave, cómo se cambia, y lo que viene en el futuro.
+
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
@@ -323,7 +324,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 #
 
-#### 15:15 - 15:30 CEST
+#### 15:15 - 15:35 CEST
 
 ##### CATNIX
 
@@ -341,7 +342,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 #
 
-#### 15:30 - 15:45 CEST
+#### 15:35 - 15:55 CEST
 
 ##### ESPANIX
 
@@ -356,28 +357,6 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 {{% /portfolio %}}  
 
-#
-#
----------------------------
-
-### 15:45 - 16:00 CEST
-
-#### charla por concretar
-#
-
-{{% portfolio image="/gore36/img/john_doe.jpg" alt="John Doe" %}}
-
-
-**Ponente por concretar**
-
-[ESNOG](https://www.esnog.net)
-
-
-Descripcion de la charla por concretar
-
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
-
-{{% /portfolio %}} 
 
 #
 #
