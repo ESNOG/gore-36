@@ -23,7 +23,10 @@ UPC Edificio Vèrtex. Universitat Politècnica de Catalunya.
 
 Plaza de Eusebi Güell, 6. Barcelona
 
+Sala d'Actes del Vèrtex
+
 [https://maps.app.goo.gl/vKZpUqCfpyi6toCa6](https://maps.app.goo.gl/vKZpUqCfpyi6toCa6)
+
 
 
 Agradecemos a la [UPC](https://www.upc.edu/) su colaboración y la cesión de sus instalaciones para la celebración de ESNOG36.
