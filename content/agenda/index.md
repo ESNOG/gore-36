@@ -524,20 +524,15 @@ La ponencia abordará la coexistencia de la seguridad cuántica de claves (QKD) 
 
 ### 11:30 - 12:00 CEST 
 
-#### Channelmania! Asegura el futuro de tu topología de redes DWDM quedando flexible para la tecnología de 1.6T
+#### Café, BGP y IA en la vida de alguien de redes
 #
 
-{{% portfolio image="/gore36/img/ponente-gerhard-stein.jpg" alt="Gerhard Stein" %}}
+{{% portfolio image="/gore36/img/ponente-carlos-fraga.jpg" alt="Carlos Fraga" %}}
 
 
-**Gerhard Stein**
-
-[Flexoptix - https://www.flexoptix.net](https://www.flexoptix.net)
+**Carlos Fraga**
 
 
-"Los enfoques anteriores para maximizar la capacidad de datos por par de fibras consistían en utilizar cada vez más canales DWDM con espaciamientos de cuadrícula lo más pequeños posible. Esto hizo que los espaciamientos se redujeran de 200 GHz a 100 GHz y luego a 50 GHz, con algunas aplicaciones llegando incluso a 25 GHz. En los últimos años, el ancho de banda por canal siguió aumentando, a medida que los esquemas de modulación complejos fueron ganando preferencia frente a la codificación ON-OFF-Keying, que ha sido un pilar de la comunicación por fibra óptica durante décadas. 
-
-Esos anchos de banda por canal incrementados - 400 Gbps, 800 Gbps y ahora avanzando hacia el rango de 1,6 Tbps - exigen cuadrículas más amplias para acomodar el espectro necesario para operar tales “supercanales”. En especial, el hecho de que la detección coherente sea “ciega” a cualquier cosa que no sea su propia longitud de onda ha permitido topologías interesantes que pueden prescindir de filtros por completo. Por supuesto, eso tiene el coste de una flexibilidad reducida. Aquí aprenderás cómo puedes aprovechar algunos de esos beneficios pasando a filtros de 400 GHz mientras conservas una gran parte de tu flexibilidad. Mantén tus señales heredadas de 10 Gbps o inferiores en la misma fibra que tus señales rápidas y reasigna fácilmente tu ancho de banda sin el coste de los ROADMs"
 
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
