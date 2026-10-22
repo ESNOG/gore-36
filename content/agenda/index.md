@@ -144,7 +144,7 @@ Hace dos semanas ocurrió un evento único en Internet. Se cambió la llave crip
 n esta charla explicaré de qué se trara esa llave, cómo se cambia, y lo que viene en el futuro.
 
 
-([**PRESENTACION en PDF**](/gore36/archivos/esnog36-hugo-salgado-las-rotaciones-de-la-llave-raiz-del-dns.pdf))
+([**PRESENTACION en PDF**](/gore36/archivos/esnog36-las-rotaciones-de-la-llave-raiz-del-dns.pdf))
 
 {{% /portfolio %}} 
 
@@ -219,7 +219,7 @@ En esta charla presentamos una plataforma de IA agéntica desplegada íntegramen
 
 La segunda parte se centra en un caso real de un operador VoIP. A partir de 24 horas de logs de Asterisk, los agentes reconstruyen las reglas con las que opera el negocio: rol de cada carrier, política de failover, límites de admisión y patrones de seguridad. Cada regla sale con su evidencia y su verificación. Mostraremos también cómo se trazan, evalúan y miden en coste cada ejecución y cada agente, para que sus resultados sean auditables y reproducibles. La sesión está pensada para ingenieros de red y operaciones que quieran aplicar IA a sus propios datos sin perder el control sobre ellos.
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
+([**PRESENTACION en PDF**](/gore36/archivos/esnog36-nube-soberana-para-operadores.pdf))
 
 {{% /portfolio %}} 
 
@@ -250,7 +250,7 @@ In this talk, we'll show you what network monitoring needs to look like in 2026,
 - Scalable: diversity and integration mean nothing if they fall apart under load. We'll address the architectural decisions that let your monitoring grow with your data without degrading the operations that depend on it.
 
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
+([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/esnog36-rethinking-network-monitoring.pdf)
 
 {{% /portfolio %}} 
 
