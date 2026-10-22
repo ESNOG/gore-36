@@ -524,26 +524,24 @@ La ponencia abordará la coexistencia de la seguridad cuántica de claves (QKD) 
 
 ### 11:30 - 12:00 CEST 
 
-#### Café, BGP y IA en la vida de alguien de redes
+### Trabajar en una MAANG: antes, durante y después
 #
 
-{{% portfolio image="/gore36/img/ponente-carlos-fraga.jpg" alt="Carlos Fraga" %}}
 
 
-**Carlos Fraga**
+{{% portfolio image="/gore35/img/ponente-fernando-garcia.jpg" alt="Fernando Garcia" %}}
 
-¿Podemos utilizar la inteligencia artificial para automatizar nuestras redes mientras nos tomamos un café?
 
-Tres años después de nuestra primera experiencia con ChatGPT y BGP, volvemos para comprobar cuánto ha evolucionado la IA.
+**Fernando Garcia**
 
-A través de ejemplos prácticos, exploraremos cómo utilizar agentes de IA, MCP, NetBox y herramientas de automatización para gestionar inventarios, generar configuraciones BGP y facilitar la resolución de incidencias.
 
-También hablaremos de los problemas encontrados, la privacidad, la seguridad y los riesgos de confiar demasiado en estas tecnologías.
+Una visión desde dentro de cómo es la vida profesional en una empresa: cómo son los procesos de selección, qué ocurre una vez que entras y cómo se organiza el trabajo en el día a día. Hablaremos también de desarrollo profesional, incluyendo algunos aspectos que no siempre se conocen desde fuera. Y, por supuesto, de la otra cara de la moneda: cómo son las salidas de una empresa, qué procesos hay detrás y qué ocurre cuando decides cambiar de rumbo.
 
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
 {{% /portfolio %}} 
+
 
 #
 #
@@ -574,17 +572,21 @@ Esta presentación explora la evolución técnica de Ethernet VPN como un ecosis
 
 ### 12:30 - 13:00 CEST
 
-#### Trabajar en una MAANG: antes, durante y después
+#### Café, BGP y IA en la vida de alguien de redes
 #
 
-{{% portfolio image="/gore35/img/ponente-fernando-garcia.jpg" alt="Fernando Garcia" %}}
+{{% portfolio image="/gore36/img/ponente-carlos-fraga.jpg" alt="Carlos Fraga" %}}
 
 
-**Fernando Garcia**
+**Carlos Fraga**
 
+¿Podemos utilizar la inteligencia artificial para automatizar nuestras redes mientras nos tomamos un café?
 
-Una visión desde dentro de cómo es la vida profesional en una empresa: cómo son los procesos de selección, qué ocurre una vez que entras y cómo se organiza el trabajo en el día a día. Hablaremos también de desarrollo profesional, incluyendo algunos aspectos que no siempre se conocen desde fuera. Y, por supuesto, de la otra cara de la moneda: cómo son las salidas de una empresa, qué procesos hay detrás y qué ocurre cuando decides cambiar de rumbo.
+Tres años después de nuestra primera experiencia con ChatGPT y BGP, volvemos para comprobar cuánto ha evolucionado la IA.
 
+A través de ejemplos prácticos, exploraremos cómo utilizar agentes de IA, MCP, NetBox y herramientas de automatización para gestionar inventarios, generar configuraciones BGP y facilitar la resolución de incidencias.
+
+También hablaremos de los problemas encontrados, la privacidad, la seguridad y los riesgos de confiar demasiado en estas tecnologías.
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
 
