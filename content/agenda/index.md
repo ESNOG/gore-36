@@ -575,7 +575,7 @@ Esta presentación explora la evolución técnica de Ethernet VPN como un ecosis
 #### Café, BGP y IA en la vida de alguien de redes
 #
 
-{{% portfolio image="/gore36/img/ponente-carlos-fraga.jpg" alt="Carlos Fraga" %}}
+{{% portfolio image="/gore36/img/ponente-carlos-fraga-cafe.jpg" alt="Carlos Fraga" %}}
 
 
 **Carlos Fraga**
