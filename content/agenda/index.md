@@ -532,7 +532,13 @@ La ponencia abordará la coexistencia de la seguridad cuántica de claves (QKD) 
 
 **Carlos Fraga**
 
+¿Podemos utilizar la inteligencia artificial para automatizar nuestras redes mientras nos tomamos un café?
 
+Tres años después de nuestra primera experiencia con ChatGPT y BGP, volvemos para comprobar cuánto ha evolucionado la IA.
+
+A través de ejemplos prácticos, exploraremos cómo utilizar agentes de IA, MCP, NetBox y herramientas de automatización para gestionar inventarios, generar configuraciones BGP y facilitar la resolución de incidencias.
+
+También hablaremos de los problemas encontrados, la privacidad, la seguridad y los riesgos de confiar demasiado en estas tecnologías.
 
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
