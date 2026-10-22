@@ -177,7 +177,7 @@ and that's not even all!
 
 In this talk we will go through them, how and when to use them, and how you can get the most out of them. Our goal is to provide value back to the community, and we'd love your feedback.
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
+([**PRESENTACION en PDF**](/gore36/archivos/esnog36-nick-bouwhuis-nlnog.pdf))
 
 {{% /portfolio %}} 
 
