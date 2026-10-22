@@ -409,7 +409,7 @@ Una charla técnica para entender los nuevos requerimientos y las claves operati
 #
 ---------------------------
 
-### 19:30 - 20:45 CEST
+### 19:00 - 20:45 CEST
 #
 
 {{% portfolio image="/gore36/img/icono-fiesta.png" alt="fiesta" %}}
