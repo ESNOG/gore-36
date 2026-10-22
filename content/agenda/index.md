@@ -144,7 +144,7 @@ Hace dos semanas ocurrió un evento único en Internet. Se cambió la llave crip
 n esta charla explicaré de qué se trara esa llave, cómo se cambia, y lo que viene en el futuro.
 
 
-([**PRESENTACION en PDF**](/gore36/archivos/esnog36-hugo-salgado-las rotaciones-de-la-llave-raiz-del-DNS.pdf))
+([**PRESENTACION en PDF**](/gore36/archivos/esnog36-hugo-salgado-las-rotaciones-de-la-llave-raiz-del-dns.pdf))
 
 {{% /portfolio %}} 
 
