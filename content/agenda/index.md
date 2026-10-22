@@ -250,7 +250,7 @@ In this talk, we'll show you what network monitoring needs to look like in 2026,
 - Scalable: diversity and integration mean nothing if they fall apart under load. We'll address the architectural decisions that let your monitoring grow with your data without degrading the operations that depend on it.
 
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/esnog36-rethinking-network-monitoring.pdf))
+([**PRESENTACION en PDF**](/gore36/archivos/esnog36-rethinking-network-monitoring.pdf))
 
 {{% /portfolio %}} 
 
