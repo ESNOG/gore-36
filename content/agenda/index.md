@@ -274,7 +274,7 @@ In this talk, we'll show you what network monitoring needs to look like in 2026,
 En esta charla presentaremos la evolución de los proyectos ePrivo y GuardXP, compartidos en anteriores ediciones de ESNOG, hacia Ikusa, una plataforma centrada en reforzar la seguridad de los dispositivos móviles. Explicaremos las decisiones que nos llevaron a cambiar el enfoque del proyecto, los retos encontrados al trasladar funcionalidades avanzadas a un entorno móvil y el equilibrio entre ofrecer herramientas potentes para usuarios experimentados y una experiencia sencilla para el público general.
 
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/esnog36-ikusa.pdf))
+([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/esnog36-ikusa.---pdf))
 
 {{% /portfolio %}} 
 
@@ -339,7 +339,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [CATnix - www.catnix.net](https://www.catnix.net/es)
 
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null.pdf))
+([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/esnog36-actualizacion-CATNIX---.pdf))
 
 
 {{% /portfolio %}}  
@@ -357,7 +357,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [ESPAnix - www.espanix.net](https://www.espanix.net/es)
 
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null.pdf))
+([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/esnog36-actualizacion-ESPANIX---.pdf))
 
 {{% /portfolio %}}  
 
