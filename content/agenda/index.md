@@ -476,7 +476,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG36
 
 La inferencia de IA está pasando de ser una capacidad exclusiva de grandes proveedores a convertirse en un servicio que puede distribuirse y ejecutarse cerca de usuarios y datos. ¿Qué papel pueden jugar los operadores en esta nueva cadena de valor? La charla analiza dónde encaja el ISP, desde la distribución y la conectividad hasta la prestación y gestión de capacidad de inferencia.
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
+([**PRESENTACION en PDF**](/gore36/archivos/nulesnog36-warian-alfredo-giordano-ISP-Inference.pdf))
 
 {{% /portfolio %}} 
 
@@ -500,7 +500,7 @@ La inferencia de IA está pasando de ser una capacidad exclusiva de grandes prov
 La ponencia abordará la coexistencia de la seguridad cuántica de claves (QKD) con el tráfico de datos convencional sobre una misma infraestructura de fibra óptica usando multiplexación por división de longitud de onda (DWDM) mediante el uso de infraestructura existente. Se analizarán las interferencias entre la señal cuántica y el tráfico de datos convencional, así como las soluciones técnicas para garantizar la estabilidad de ambos sistemas.
 
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore36/archivos/null))
+([**PRESENTACION en PDF**](/gore36/archivos/esnog36-fenttic-QKD-into-DWDM.pdf))
 
 {{% /portfolio %}} 
 
